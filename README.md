@@ -1,1 +1,1 @@
-## NextJS_Learning_Tuts
+## NextJS Learning Tuts
